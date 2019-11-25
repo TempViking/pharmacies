@@ -1,0 +1,17 @@
+@import './colors.scss';
+@import './mixins.scss';
+
+html {
+    font-size: 12px;
+    height: 100%;
+}
+body {
+    margin: 0;
+    height: 100%;
+    color: $dark-grey;
+}
+input {
+    padding: 1rem 1.16rem;
+    border: 1px solid $light-grey;
+    font-size: 1.25rem;
+}
