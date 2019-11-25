@@ -1,4 +1,6 @@
-# pharmacies
+# Тестовое задание
+
+**Демо**: <https://tempviking.github.io/pharmacies>  
 
 ## Project setup
 ```
@@ -15,15 +17,5 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Спасибо всем, кто обратил внимание.  
+<growlingviking@icloud.com>
