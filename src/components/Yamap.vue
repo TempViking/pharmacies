@@ -164,7 +164,9 @@ export default {
     font-size: 1.1rem;
   }
   &__button {
+    display: block !important;
     margin-top: 1.5rem;
+    height: auto !important;
   }
 }
 .metro {
